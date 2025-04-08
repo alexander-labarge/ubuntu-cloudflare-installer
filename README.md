@@ -48,7 +48,7 @@ This repository provides a single, self-contained Bash script that **safely** in
 1. **Download the Script**
 
    ```bash
-   curl -O https://raw.github.com/alexander-labarge/ubuntu-cloudflare-installer/install_cloudflare.sh
+   curl -O https://raw.githubusercontent.com/alexander-labarge/ubuntu-cloudflare-installer/refs/heads/main/install_cloudflare.sh
    ```
    
    *(Or copy/paste the contents into a local file named `install_cloudflare.sh`.)*
